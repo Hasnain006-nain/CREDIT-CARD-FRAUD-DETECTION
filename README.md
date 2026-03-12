@@ -323,7 +323,7 @@ xTrain, yTrain = sm.fit_resample(xTrain, yTrain)
 ```
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Hasnain006-nain)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hasnain-machinelearning-engineer/)
+[![LinkedIn](https://www.linkedin.com/in/hasnain-machinelearning-engineer/)]
 <br/>
 
 ---
